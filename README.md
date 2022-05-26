@@ -1,2 +1,3 @@
-#Doutor Estrano 2 
+# Strange-2
  
+<img src="./img/screenshot_2png">
